@@ -5,5 +5,5 @@ Recursos utilizados para automação de testes: - Java 8 - JUnit - Selenium - We
 # Como executar o teste:
 Acessar: src/test/java > tests > ElasticEmailTest.java (Execute essa classe)
 
-#Onde encontrar o screenshot
+#Onde encontrar o screenshot:
 Acessar as pastas: target > screenshot > (imagem).jpg
